@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 1rem;
 }
 
-.subtitle {
+.subtitle h2.biotitle, h2.discotitle {
     font-family: "Changa";
     margin-top: 2rem;
     margin-bottom: 1rem;
